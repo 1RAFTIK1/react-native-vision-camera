@@ -96,3 +96,4 @@ If you're integrating VisionCamera in a production app, consider [funding this p
 Izmenenie 2 in branch1
 Izmenenie 23 in branch1
 Izmenenie 235 in branch1
+Izmenenie 99 in branch1
